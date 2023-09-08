@@ -89,7 +89,7 @@ public class homeFragment extends Fragment {
                 ugRecycler.setVisibility(vv);
 
                 ugList = new ArrayList<>();
-                ugList.add(new ProgramsData("B.Sc Botany","60"));
+                ugList.add(new ProgramsData("B.Sc Botany","6"));
                 ugList.add(new ProgramsData("B.Sc Physics","60"));
                 ugList.add(new ProgramsData("B.Sc Zoology","60"));
                 ugList.add(new ProgramsData("B.Sc Mathematics","60"));
