@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile_detail"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile" />
+
+    <item android:id="@+id/study_material"
+        android:title="Study Material"
+        android:icon="@drawable/ic_books" />
+
+    <item android:id="@+id/website"
+        android:title="Our Website"
+        android:icon="@drawable/ic_website" />
+
+    <item android:id="@+id/contact_us"
+        android:title="Contact Us"
+        android:icon="@drawable/ic_call" />
+
+    <item android:id="@+id/location"
+        android:title="Location"
+        android:icon="@drawable/ic_location" />
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+</menu>
